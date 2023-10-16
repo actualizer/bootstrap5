@@ -280,7 +280,6 @@ Temporary Items
 .uniqueid.txt
 Dockerfile
 PLATFORM_COMMIT_SHA
-README.md
 bin/
 config/
 easy-coding-standard.php
@@ -293,3 +292,11 @@ psalm.xml
 var/
 vendor/
 /.idea/.gitignore
+/.idea/git_toolbox_prj.xml
+/.idea/bootstrap5.iml
+/.idea/DdevIntegration.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/scssLintPlugin.xml
+/.idea/vcs.xml
+/.idea/watcherTasks.xml
