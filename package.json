@@ -22,7 +22,7 @@
     "clean": "rm -rf public/*"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ralph Geldmacher <ralph@actualize.de",
   "license": "ISC",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
